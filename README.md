@@ -1,1 +1,1 @@
-# Health-Assessment-of-a-Ball-Bearing
+# Health-Assessment-of-a-shaft
